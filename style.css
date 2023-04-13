@@ -1,0 +1,98 @@
+body {
+  margin: 0px;
+}
+
+.header {
+  background-color: rgb(74, 120, 105);
+  width: 100%;
+  height: 340px;
+}
+.header .banner {
+  width: 200px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  top: 32%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.header .top {
+  margin: 10px;
+}
+.header .top .title {
+  text-align: center;
+  color: aliceblue;
+}
+.header .top p {
+  text-align: center;
+  color: aliceblue;
+}
+
+.area1 {
+  margin: 0 50px;
+}
+.area1 .top {
+  display: flex;
+  height: 65px;
+  position: relative;
+}
+.area1 .top .right p {
+  margin-top: 28px;
+  padding-left: 10px;
+  font-size: 20px;
+  color: rgb(83, 138, 120);
+}
+.area1 .center {
+  border-top: 1px solid black;
+}
+.area1 .center h3 {
+  margin: 15px 50px;
+}
+.area1 .center .c3 {
+  margin-bottom: 20px;
+}
+.area1 .bottom {
+  border-top: 1px solid black;
+}
+.area1 .bottom h3 {
+  margin: 15px 50px;
+}
+
+.skill {
+  background-color: rgb(74, 120, 105);
+  height: 300px;
+}
+.skill h2 {
+  text-align: center;
+  padding-top: 30px;
+  color: aliceblue;
+}
+.skill .bottom {
+  border-top: 1px solid white;
+  margin: 0 50px;
+}
+.skill .bottom p {
+  text-align: center;
+  color: aliceblue;
+}
+
+.area3 {
+  height: 450px;
+  margin: 0 50px;
+}
+.area3 .top {
+  display: flex;
+  height: 65px;
+  position: relative;
+}
+.area3 .top .right p {
+  margin-top: 28px;
+  font-size: 20px;
+}
+.area3 .bottom {
+  border-top: 1px solid black;
+}
+.area3 .bottom p {
+  font-size: 16px;
+}/*# sourceMappingURL=style.css.map */
